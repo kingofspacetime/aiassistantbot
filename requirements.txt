@@ -1,0 +1,12 @@
+Flask
+python-telegram-bot
+aiohttp
+schedule
+Pillow
+requests
+python-dotenv
+imageio
+imageio-ffmpeg
+lottie
+cairosvg
+pillow-heif
